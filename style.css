@@ -8,3 +8,8 @@
   display: flex;
   justify-content: space-evenly;
 }
+
+.section1 {
+  background-image: url(./images/background.jpg);
+  background-size: cover;
+}
